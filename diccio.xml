@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_80" class="java.beans.XMLDecoder">
+ <object class="xml.Diccionario" id="Diccionario0">
+  <void property="palabras">
+   <void method="add">
+    <object class="xml.Palabra">
+     <void property="descripcion">
+      <string>Herramienta para golpear</string>
+     </void>
+     <void property="nivel">
+      <int>2</int>
+     </void>
+     <void property="nombre">
+      <string>martillo</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="xml.Palabra">
+     <void property="descripcion">
+      <string>lugar donde se habita</string>
+     </void>
+     <void property="nivel">
+      <int>1</int>
+     </void>
+     <void property="nombre">
+      <string>casa</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="xml.Palabra">
+     <void property="descripcion">
+      <string>Astro o cuerpo celeste que brilla con luz propia</string>
+     </void>
+     <void property="nivel">
+      <int>3</int>
+     </void>
+     <void property="nombre">
+      <string>estrella</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
